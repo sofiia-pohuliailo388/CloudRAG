@@ -1,4 +1,4 @@
-# 📚 Аналітична система: Архів Айн Ренд
+# 📚 Analytical System: Ayn Rand Archive
 
 A pet project — a RAG-based chatbot that loads files from cloud storage, converts them into a vector database, and answers user questions based on the content.
 
